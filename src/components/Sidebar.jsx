@@ -29,7 +29,7 @@ function Sidebar() {
                 </li>
 
                 <li>
-                    <NavLink className="nav-link text-white" to="/" style={isActive}>Create Post</NavLink>
+                    <NavLink className="nav-link text-white" to="/input" style={isActive}>Create Post</NavLink>
                 </li>
 
             </ul>
